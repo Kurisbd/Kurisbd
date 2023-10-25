@@ -30,8 +30,5 @@
 </a>
 </p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurisbd&layout=compact&theme=dark" alt=kurisbd />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kurisbd&show_icons=true&locale=en&theme=dark" alt="kurisbd" /></p>
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kurisbd&theme=dark" alt="kurisbd" /></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
