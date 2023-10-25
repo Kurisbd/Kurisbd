@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Ammad Ali</h1>
+<h1 align="left">Hi 👋, I'm Md. Ammad Ali</h1>
 <h3 align="left">A passionate full-Stack developer from Bangladesh</h3>
 - 🔭 I’m currently working on react
 
